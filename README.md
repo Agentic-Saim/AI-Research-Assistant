@@ -1,4 +1,4 @@
-# 🧠 IntellectAI - Advanced Research Assistant
+﻿# 🧠 IntellectAI - Advanced Research Assistant
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -114,7 +114,7 @@ Before installing IntellectAI, ensure you have:
 
 ```bash
 # Clone the repository
-git clone https://github.com/m-shamim09/AI-Research-Assistant
+git clone https://github.com/agentic-saim09/AI-Research-Assistant
 cd IntellectAI
 
 # Create a virtual environment (recommended)
@@ -399,7 +399,7 @@ This is production-ready code that respects your intelligence and your users' ti
 
 **Built with ❤️ and intelligence**
 
-[Report Bug](https://github.com/m-shamim09/AI-Research-Assistant) · [Request Feature](https://github.com/m-shamim09/AI-Research-Assistant) · [Documentation](https://github.com/m-shamim09/AI-Research-Assistant)
+[Report Bug](https://github.com/agentic-saim09/AI-Research-Assistant) · [Request Feature](https://github.com/agentic-saim09/AI-Research-Assistant) · [Documentation](https://github.com/agentic-saim09/AI-Research-Assistant)
 
 </div>
 
@@ -415,8 +415,8 @@ This is production-ready code that respects your intelligence and your users' ti
 
 ## Author & Contact
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
+- **Author:** Agentic Saim
+- **GitHub:** [@agentic-saim09](https://github.com/agentic-saim09)
+- **Email:** [agenticsaim.work@gmail.com](mailto:agenticsaim.work@gmail.com)
+- **Profile:** https://github.com/agentic-saim09
 
